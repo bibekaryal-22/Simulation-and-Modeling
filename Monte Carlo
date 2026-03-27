@@ -1,1 +1,7 @@
-Monte Carlo
+//Activity 1
+//a. Calculate the value of pi using monte carlo method.
+//b.Calculate the error percntage.
+//c.repeat the experiment for at least five different value of input iteraitons and tabulate value ,experiments output and error percentage of each.
+
+//Activity 2
+//use monte carlo methos to calculate the probability of getting 3,6 or 9 heads in testing of coin 10 times.
